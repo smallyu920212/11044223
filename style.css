@@ -22,6 +22,7 @@ body{
 .nav1{
     background-color: #e5b5b1;
     padding-top: 0.2cm;
+    height: 100%;
     width: 95%;
     text-align: center;
 }
